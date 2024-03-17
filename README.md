@@ -1,4 +1,4 @@
-# Dynamic-Portfolio-Optimization
+# Dynamic Portfolio Optimization
 
 This project involves the development of a portfolio optimization model utilizing historical S&P 500 stock price data. Our objective is to enhance investment strategies by leveraging technical indicators, machine learning clustering, and modern portfolio theory principles. The workflow includes:
 
